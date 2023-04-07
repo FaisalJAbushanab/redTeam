@@ -526,6 +526,10 @@ i{
     background-color: #d43333;
 }
 @media (max-width: 768px) {
+    #info {
+          
+            height: 330px !important;
+        }
     .carousel-caption p{
         font-size: 12pt !important;
         font-weight: normal;
