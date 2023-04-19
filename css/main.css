@@ -342,10 +342,12 @@
     z-index: 1;
     width: 100%;
     height: 100%;
-    background: #396afc;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2948ff, #396afc);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2948ff, #396afc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    opacity: .3;
+    background: #8E0E00;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #1F1C18, #8e0e00a1);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #1F1C18, #8e0e00a1);
+    opacity: .7;
     overflow: hidden;
 }
 #video .container{
